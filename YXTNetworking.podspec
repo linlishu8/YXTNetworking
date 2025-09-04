@@ -19,7 +19,7 @@ DESC
   s.author       = { "YXT" => "ios@example.com" }
   s.platform     = :ios, "14.0"
   s.swift_versions = ["5.9"]
-  s.source       = { :git => "https://github.com/example/YXTNetworking.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/linlishu8/YXTNetworking", :tag => s.version.to_s }
   s.source_files  = "Sources/YXTNetworking/**/*.{swift}"
   s.requires_arc  = true
 end

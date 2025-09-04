@@ -14,7 +14,7 @@ A URLSession-based networking layer featuring:
 - Swift Concurrency (async/await) & Combine wrappers
 - Decodable mapping & typed errors
 DESC
-  s.homepage     = "https://github.com/example/YXTNetworking"
+  s.homepage     = "https://github.com/linlishu8/YXTNetworking"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "YXT" => "ios@example.com" }
   s.platform     = :ios, "14.0"
